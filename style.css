@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(38,41,34);
+    justify-content: center;
+}
+p{  
+    margin-top: 200px;
+    font-size: 50px;
+    text-align: center;
+    width: auto;
+    color:rgb(111,161,41)
+}
+input{
+    font-size: 30px;
+    position: relative;
+    left: 43%;
+    color: rgb(178,38,81);
+    background-color: rgb(38,41,34);
+    border:none;
+}
